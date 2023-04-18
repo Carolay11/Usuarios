@@ -31,4 +31,6 @@ public class UsuarioController {
         usuarioService.actualizarUsuario(campo, valor,id);
     }
 
+
+
 }
